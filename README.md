@@ -4,7 +4,7 @@ Hi 👋 My name is Elías Ferreira
 Web Developer, learning Full-Stack
 ----------------------------------
 
-I've been coding since 1 year ago, starting with The Odin Project's curriculum, and CS50x edX course. Now I'm doing a web-development course which includes a transversal skills course, where I use JavaScript, HTML (with Bootstrap), CSS and Sass. 
+I've been coding since 2 year ago, starting with The Odin Project's curriculum, and the CS50x edX course. I recently finished a web-development course which includes a transversal skills course, where I use JavaScript, HTML (with Bootstrap), CSS, and Sass.
 
 *   🌍  I'm based in Montevideo, Uruguay
 *   ✉️  You can contact me at [eliosferrena@gmail.com](mailto:eliosferrena@gmail.com)
