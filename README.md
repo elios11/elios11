@@ -31,7 +31,6 @@ I've been coding since 2 year ago, starting with The Odin Project's curriculum, 
 
 ### Socials                  
 <p align="left">
-                          
-<p align="left"> <a href="https://www.github.com/elios11" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;
+
 <a href="https://www.linkedin.com/in/el%C3%ADas-ferreira-tab%C3%B3-a3513b1a2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
