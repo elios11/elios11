@@ -4,7 +4,7 @@ Hi 👋 My name is Elías Ferreira
 Web Developer, learning Full-Stack
 ----------------------------------
 
-I've been coding since 2 year ago, starting with The Odin Project's curriculum, and the CS50x edX course. I recently finished a web-development course which includes a transversal skills course, where I used and learned JavaScript, CSS, HTML, Bootstrap, and Sass.
+I've been coding since 2 year ago, starting with The Odin Project's curriculum, and the CS50x Harvard's course. I recently finished a web-development course which includes a transversal skills course, where I used and learned JavaScript, CSS, HTML, Bootstrap, and Sass.
 I recently finished a Scrimba React course where I learned the basics of this library. I certificated as a Scrum Master from a LearnQuest course, and I'm currently doing an IBM FullStack Cloud certification.
 
 *   🌍  I'm based in Montevideo, Uruguay
