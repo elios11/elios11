@@ -1,12 +1,13 @@
 Hi 👋 My name is Elías Ferreira
 ===============================
 
-Web Developer, learning Full-Stack
+Full-Stack Web Developer
 ----------------------------------
 
-I've been coding for 2 years now, starting with [The Odin Project's](https://www.theodinproject.com/) curriculum, and the [CS50](https://cs50.harvard.edu/x/2023/) Harvard's course. I recently finished a web-development course which includes a transversal skills course, where I used and learned JavaScript, CSS, HTML, Bootstrap, and Sass.
-I recently finished a Scrimba React course where I learned the basics of this library. I am certificated as a Scrum Master from a LearnQuest course, and in an IBM FullStack Cloud certification.
+I've been coding for 3 years now, starting with [The Odin Project's](https://www.theodinproject.com/) curriculum, and the [CS50](https://cs50.harvard.edu/x/2023/) Harvard's course. I did a web-development course which includes a transversal skills course, where I used and learned JavaScript, CSS, HTML, Bootstrap, and Sass.
+I recently finished a Scrimba React course where I learned the basics of this library. I am certificated as a Scrum Master from a LearnQuest course, and in an IBM FullStack Cloud certification.  
 
+#### You can take a look at my [Portfolio Webpage](https://eliasferreira.netlify.app/) to see my projects functioning!
 *   🌍  I'm based in Montevideo, Uruguay
 *   ✉️  You can contact me at [eliosferrena@gmail.com](mailto:eliosferrena@gmail.com)
 
