@@ -1,7 +1,7 @@
 Hi 👋 My name is Elías Ferreira
 ===============================
 
-Full-Stack Web Developer
+Front-End Web Developer
 ----------------------------------
 
 I've been coding for 3 years now, starting with [The Odin Project's](https://www.theodinproject.com/) curriculum, and the [CS50](https://cs50.harvard.edu/x/2023/) Harvard's course. I did a web-development course which includes a transversal skills course, where I used and learned JavaScript, CSS, HTML, Bootstrap, and Sass.
